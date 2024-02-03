@@ -138,7 +138,7 @@ public static class Helpers
             {
                 continue;
             }
-
+            if(weapon.Value.DesignerName == "weapon_knife") continue;
             // Log.Write($"Removing weapon {weapon.Value.DesignerName} {weapon.IsValid}");
 
             player.PlayerPawn.Value.RemovePlayerItem(weapon.Value);
