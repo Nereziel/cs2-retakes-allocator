@@ -1,4 +1,4 @@
-﻿# CS2 Retakes Allocator
+﻿# CS2 Retakes Allocator 
 
 [![Build RetakesAllocator.zip](https://github.com/yonilerner/cs2-retakes-allocator/actions/workflows/build.yml/badge.svg)](https://github.com/yonilerner/cs2-retakes-allocator/actions/workflows/build.yml)
 
